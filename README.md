@@ -1,2 +1,2 @@
-# dalias-site
+# dalias-personal-site
 this is my website from the stardance project :D
