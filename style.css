@@ -107,13 +107,13 @@ footer{
 
 #tire-sticker{
     width: 120px;
-    top: 525px;
-    left: 460px;
+    top: 88%;
+    left: 31%;
     transform: rotate(-15deg)
 }
 #d-sticker{
-    top: 260px;
-    left: 1045px;
+    top: 46%;
+    left: 72%;
     transform: rotate(-2deg)
 }
 
