@@ -19,6 +19,17 @@ body{
     padding: 20px;
     text-align: center;
     color: #e9b7d6;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.star-icon{
+    width: 160px;
+    height: auto;
+    pointer-events: none;
 }
 
 h1{
@@ -104,15 +115,6 @@ footer{
     top: 260px;
     left: 1045px;
     transform: rotate(-2deg)
-}
-#star-sticker{
-    top: 0px;
-    left: 280px;
-}
-
-#star-sticker2{
-    top: 0px;
-    left: 1037px;
 }
 
 .grid{
