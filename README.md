@@ -5,7 +5,9 @@ here i showcase my vibe/my aesthetic, my interests such as formula 1 & my curren
  ݁ .‧₊⋆.٠༺✶༻٠.⋆₊‧. ݁
 
 ## ✧ about the project
-i built this site to refresh my knowledge of html & css and to have a creative space :)
+i built this site to refresh my knowledge of html & css and to have a creative space :) 
+i used css grid and flexbox to make the layout for the cards and i also added stickers on top of them. at first, i struggled a little with moving the stickers, but now it finally works. in general i tried to make the website look a little like an ipad homescreen or a pinterest board.
+moreover, i embedded an apple music widget & a gif and i made sure the design stays responsive.
 
  ݁ .‧₊⋆.٠༺✶༻٠.⋆₊‧. ݁
 
